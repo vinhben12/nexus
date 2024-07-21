@@ -67,4 +67,4 @@ print_message "Verifying the proof"
 cargo nexus verify
 
 print_message "Nexus zkVM setup and execution complete!"
-print_message "Subscribe: https://t.me/HappyCuanAirdrop"
+print_message "Jaden chúc ae bú air"
