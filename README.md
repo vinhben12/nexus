@@ -6,9 +6,13 @@ wget https://raw.githubusercontent.com/dante4rt/Ramanode-Guides/main/Nexus/nexus
 ```
 
 ▸ Mở Gitpod
+
 ▸ Create a new workspace
+
 ▸ Paste the code to terminal
+
 ▸ Go to "nexus-project" folder
+
 ▸ Download the "nexus-proof"
 
 
