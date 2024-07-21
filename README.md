@@ -5,15 +5,19 @@ Script:
 wget https://raw.githubusercontent.com/vinhben12/nexus/main/nexus_install.sh && chmod +x nexus_install.sh && ./nexus_install.sh
 ```
 
+▸ Tạo 1 repo ở github 
+
 ▸ Mở Gitpod
 
-▸ Create a new workspace
+▸ Create một workpace
 
-▸ Paste the code to terminal
+▸ Paste the code to terminal (nhập code vào terminal)
 
-▸ Go to "nexus-project" folder
+▸ Sau khi chạy xong
 
-▸ Download the "nexus-proof"
+▸ Vào "nexus-project" folder
+
+▸ Tải  "nexus-proof" file về
 
 
 Note:
