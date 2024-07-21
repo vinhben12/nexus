@@ -2,7 +2,7 @@
 Script:
 
 ```bash
-wget https://raw.githubusercontent.com/dante4rt/Ramanode-Guides/main/Nexus/nexus_install.sh && chmod +x nexus_install.sh && ./nexus_install.sh
+wget https://raw.githubusercontent.com/vinhben12/nexus/main/nexus_install.sh && chmod +x nexus_install.sh && ./nexus_install.sh
 ```
 
 ▸ Mở Gitpod
